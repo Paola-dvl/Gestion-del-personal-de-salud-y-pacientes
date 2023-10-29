@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "firstName": "Maria",
+      "lastName": "Valenzuela",
+      "username": "paola.dvl",
+      "dateOfBirth": "2002-12-15",
+      "gender": "femenino",
+      "password": "$2b$10$1wkyADyHD66Oh02z4qEz8OOUOLwse4PjSesYOfw5K6RSMTgqaj9g.",
+      "phone": "3055947675"
+    },
+    {
+      "firstName": "Maria",
+      "lastName": "Valenzuela",
+      "username": "paola.dvl",
+      "dateOfBirth": "2002-12-15",
+      "gender": "femenino",
+      "password": "$2b$10$zMe70mJSKs3WgjEsRkFPgOJGdPdF73u40yjuySF5Cg.dEwT0aKOHG",
+      "phone": "3055947675"
+    },
+    {
+      "firstName": "Maria",
+      "lastName": "Valenzuela",
+      "username": "paola.dvl",
+      "dateOfBirth": "2002-12-15",
+      "gender": "femenino",
+      "password": "$2b$10$HfWTxgxxTjj6tZiFecNxpOnCspDqLAFEA3/S1q78Flfk/8YVoNnXC",
+      "phone": "3055947675"
+    },
+    {
+      "firstName": "Maria",
+      "lastName": "Valenzuela",
+      "username": "paola.dvl",
+      "dateOfBirth": "2002-12-15",
+      "gender": "femenino",
+      "password": "$2b$10$qG/qeP4QTGg0Bweih67L7evgQCgB8NzS0n5g7zId9NxYmGA1g8nVK",
+      "phone": "3055947675"
+    },
+    {
+      "firstName": "Maria",
+      "lastName": "Valenzuela",
+      "username": "paola.dvl",
+      "dateOfBirth": "2002-12-15",
+      "gender": "femenino",
+      "password": "$2b$10$Tr2uUAhLtDW3EWVklLM1aOiNmHVgfQSQsr678y0t9f4OHbSNpq.EO",
+      "phone": "3055947675"
+    },
+    {
+      "firstName": "Maria",
+      "lastName": "Valenzuela",
+      "username": "simon",
+      "dateOfBirth": "2002-12-15",
+      "gender": "femenino",
+      "password": "$2b$10$bDoG.wGANZsyd/vK94zAu.nMy.L3yCD9v5fOwIaSo.iyoZuL7MdLG",
+      "phone": "3055947675"
+    },
+    {
+      "firstName": "Maria",
+      "lastName": "Valenzuela",
+      "username": "zibas",
+      "dateOfBirth": "2002-12-15",
+      "gender": "femenino",
+      "password": "$2b$10$te.yWRRcqS1tvGcmW8X6v.6M5.far7HuB3lTQxfSCsm6iJCPshSgi",
+      "phone": "3055947675"
+    },
+    {
+      "firstName": "Sebastian",
+      "lastName": "vasquez",
+      "username": "zzibas",
+      "dateOfBirth": "2002-09-04",
+      "gender": "masculino",
+      "password": "$2b$10$ZPo.NR9cbYj/61wkq3EhC.jlilbyQ8BM1BneooMeFg.zlmjO5ZpYG",
+      "phone": "32307110"
+    }
+  ]
+}
